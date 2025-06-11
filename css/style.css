@@ -3,15 +3,15 @@ td, th {
   }
   
   #body {
-	  background-color:#0e427d
+	  background-color:#185ead
   }
   
   .name {
 	  color:#0d0d0d
 	  
-  .outfit-<uniquifier> {
-    font-family: "Outfit", sans-serif;
-    font-size: auto;
-    font-weight: <weight>;
+  .outfit {
+    font-family:"Outfit", sans-serif;
+    font-size:1em;
+    font-weight: 450;
     font-style: normal;
   }
