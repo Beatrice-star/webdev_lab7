@@ -17,6 +17,8 @@ td, th {
   font-family: "Outfit", sans-serif;
   font-size: 3em;
   font-weight: 600;
+  position: relative;
+  left; 10px;
 }
  
 .name {
@@ -31,4 +33,6 @@ td, th {
   font-size: 1.5em;
   font-weight: 450;
   font-style: normal;
+  position: relative;
+  left: 10px;
 }
