@@ -2,16 +2,17 @@ td, th {
 	border: 1px solid;
   }
   
-  #body {
-	  background-color:#185ead
-  }
+#body {
+  background-color:#185ead;
+}
   
-  .name {
-	  color:#0d0d0d
+.name {
+	  color:#0d0d0d;
+}
 	  
-  .outfit {
-    font-family:"Outfit", sans-serif;
-    font-size:1em;
-    font-weight: 450;
-    font-style: normal;
-  }
+.outfit {
+  font-family: "Outfit", sans-serif;
+  font-size:1em;
+  font-weight: 450;
+  font-style: normal;
+}
