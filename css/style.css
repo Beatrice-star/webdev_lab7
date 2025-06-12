@@ -11,8 +11,15 @@ td, th {
   left: 30px;
   right: 50px;
   width: 90%;
+  height: 70%;
 }
-  
+ 
+.title {
+  font-family: "Outfit", sans-serif;
+  font-size: 3em;
+  font-weight: 600;
+}
+ 
 .name {
   font-family: "Outfit", sans-serif;
   font-size: 2em;
