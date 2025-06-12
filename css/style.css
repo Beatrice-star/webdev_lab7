@@ -7,7 +7,9 @@ td, th {
 }
   
 .name {
-  color:#0d0d0d;
+  font-family: "Outfit", sans-serif;
+  font-size: 2em;
+  font-weight: 600;
 }
 	  
 
